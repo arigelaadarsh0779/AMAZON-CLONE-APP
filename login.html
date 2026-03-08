@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login-page</title>
+    <style>
+        *{margin: 0px;
+            padding: 0px;
+          
+            
+        }
+        body{
+            align-items: center;
+            align-content: center;
+            background-color: aliceblue;
+            margin: 20px;
+            height: 100vh;
+             background: linear-gradient(135deg, #5fe0c8, #ba88d2); 
+        }
+        .container{
+            background-color: white;
+            height: 330px;
+            text-align: center;
+            width: 450px; 
+            margin-left: 440px;
+            border-radius: 20px;
+            border: 3px solid ;
+            border: 4px rgba(23, 23, 17, 0.595) solid;
+            box-shadow: 0px 10px 30px black;
+            
+            
+        }
+        .container h1{
+            color: rgb(3, 21, 21);
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 30px;
+            padding-top: 20px;
+            margin-top: 20px;
+
+            
+        }
+
+        .container input{
+
+            border-radius: 9px;
+            padding: 8px;
+            width: 350px;
+            margin-top: 20px;
+            border: 1px solid rgba(0, 0, 0, 0.14);
+        }
+        .container button{
+           background-color: rgba(13, 141, 232, 0.925);
+           border: 2px solid black;
+           border-radius: 10px;
+           padding: 10px;
+           width: 200px;
+           font-family: Verdana, Geneva, Tahoma, sans-serif;
+            cursor:pointer;
+           
+        }
+        .container button:hover{
+           background-color:rgb(77, 208, 252);
+            cursor:pointer;
+          
+        }  
+        .container a{
+            margin-left: 250px;
+        }       
+    </style>
+    <script src="login.js"></script>
+</head>
+<body>
+    <div class="container ">
+        <h1>Log-in</h1>
+       <p></p>
+        <input type="username" placeholder="Username"> <br>
+        <input type="password" placeholder="Password"><br>
+        <a href="">forget password</a> <br><br>
+        <button> login </button>
+    </div>
+</body>
+</html>

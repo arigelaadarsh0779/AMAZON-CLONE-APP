@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:#131921;
+    height: 50px;
+    position:relative;
+
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+  
+   
+
+}
+
+header nav ul li {
+    display: flex;
+    padding-left: 40px;
+    font-size: 20px;
+    color: aliceblue;
+      list-style: none;
+    text-decoration: none;
+    
+
+}
+
+
+header nav ul li:hover{
+    border: 2px solid white;
+    
+}
+
+header nav ul li a {
+    list-style: none;
+    text-decoration: none;
+      color: white;
+
+}
+
+header nav ul input {
+    border-radius: 12px;
+    height: 40px;
+    width: 690px;
+    padding-left: 20px;
+}
+
+header nav ul img {
+height: 31px;
+  width: 102px;
+  margin-top: 8px;
+}
+
+.container ul{
+    display: flex;
+    list-style: none;
+    background-color: #232f3e;
+    height: 40px;
+    gap: 20px ;
+    padding-left: 30px;
+    align-items:center;
+    
+}
+.container ul li{
+gap: 10% ;
+color: white;
+font-size: 18px;
+
+}
+.container ul li:hover{
+    border: 1px solid white;
+    cursor: pointer;
+
+}
+/* ------------------------------------------------------------------------------------------------------ */
+
+
+      
+       
+   
+.grid{
+    display: grid;
+     grid-template-columns: repeat(4, 4fr); /* 4 columns */
+      grid-template-rows: repeat(0, 300px);  /* 2 rows */
+      gap:67px; /* spacing between items */
+     
+      margin:40px;
+      margin-top: 140px;
+      
+   
+      
+      
+
+}
+.griditm{
+     background-color: rgb(255, 255, 255);
+      border: 1px solid #332727;
+      
+      
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      width: 287px;
+  height: 399px;
+}
+.griditm img{
+  
+   height: 73px;
+   width: 135px;
+}
+.griditm p{
+    font-size: 10px
+}
