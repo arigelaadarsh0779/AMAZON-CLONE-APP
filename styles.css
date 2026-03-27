@@ -182,10 +182,10 @@ header nav ul img {
 
 }
 
-.anchor-11 {
-    margin-left: 15px;
+.anchor-12 {
+   padding-left: 20px;
     margin-top: 21px;
-    font-size: 19px;
+    font-size: 16px;
 
 
 }
@@ -281,9 +281,10 @@ header nav ul img {
 }
 
 .anchor-22 {
-    margin-top: 10px;
-    margin-left: 10px;
-    text-decoration: none;
+   padding-left: 20px;
+    margin-top: 21px;
+    font-size: 16px;
+
 
 
 }
@@ -384,9 +385,10 @@ header nav ul img {
 }
 
 .anchor-32 {
-    margin-top: 10px;
-    margin-left: 10px;
-    text-decoration: none;
+   padding-left: 20px;
+    margin-top: 37px;
+    font-size: 16px;
+
 
 
 }
@@ -434,7 +436,7 @@ header nav ul img {
 .undertext-41 ul {
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 55px;
     margin-top: 10px;
     margin-left: 10px;
     font-size: 13px;
@@ -472,17 +474,19 @@ header nav ul img {
 .undertext-42 ul {
     display: flex;
     list-style: none;
-    gap: 100px;
+    gap: 80px;
     margin-top: 10px;
     font-size: 13px;
+    margin-left: 10px;
 
 
 }
 
 .anchor-42 {
-    margin-top: 10px;
-    margin-left: 10px;
-    text-decoration: none;
+   padding-left: 20px;
+    margin-top: 5px;
+    font-size: 16px;
+
 
 
 }
@@ -535,7 +539,7 @@ header nav ul img {
 .undertext-51 ul {
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 16px;
     margin-top: 10px;
     margin-left: 10px;
     font-size: 13px;
@@ -573,9 +577,10 @@ header nav ul img {
 .undertext-52 ul {
     display: flex;
     list-style: none;
-    gap: 100px;
+    gap: 50px;
     margin-top: 10px;
     font-size: 13px;
+    margin-left: 10px;
 
 
 }
@@ -630,7 +635,7 @@ header nav ul img {
 .undertext-61 ul {
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 60px;
     margin-top: 10px;
     margin-left: 10px;
     font-size: 13px;
@@ -668,17 +673,18 @@ header nav ul img {
 .undertext-62 ul {
     display: flex;
     list-style: none;
-    gap: 100px;
+    gap: 120px;
     margin-top: 10px;
     font-size: 13px;
+    margin-left: 18px;
 
 
 }
 
 .anchor-62 {
-    margin-top: 10px;
-    margin-left: 10px;
-    text-decoration: none;
+    padding-left: 20px;
+    margin-top: 21px;
+    font-size: 16px;
 
 }
 
@@ -725,7 +731,7 @@ header nav ul img {
 .undertext-71 ul {
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 70px;
     margin-top: 10px;
     margin-left: 10px;
     font-size: 13px;
@@ -766,6 +772,7 @@ header nav ul img {
     gap: 100px;
     margin-top: 10px;
     font-size: 13px;
+    margin-left: 10px;
 
 
 }
@@ -820,7 +827,7 @@ header nav ul img {
 .undertext-81 ul {
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 30px;
     margin-top: 10px;
     margin-left: 10px;
     font-size: 13px;
@@ -861,14 +868,15 @@ header nav ul img {
     gap: 100px;
     margin-top: 10px;
     font-size: 13px;
+    margin-left: 10px;
 
 
 }
 
 .anchor-82 {
-    margin-top: 10px;
-    margin-left: 10px;
-    text-decoration: none;
+  padding-left: 10px;
+    margin-top: 6px;
+    font-size: 16px;
 
 }
 
